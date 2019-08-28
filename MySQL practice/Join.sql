@@ -34,7 +34,10 @@ CREATE VIEW  customer_fullname AS
     FROM customer;
 
  -- -- -- STORED PROCS -- -- -- 
+ #right click sp ion left pane to create sp
+ #click apply, apply, finish
  
+ CALL getAll_Actors;
 
 
 
